@@ -6,7 +6,6 @@
 } */
 
 @import url('https://fonts.googleapis.com/css?family=Shrikhand');
-
 .wiljago {
   color: #cc0033;
   text-decoration: none;
@@ -28,6 +27,14 @@ svg {
   bottom: 0;
   left: auto;
   right: 0;
+}
+
+.firstSnek {
+z-index: 1;
+}
+
+.nextSnek {
+z-index: 2;
 }
 
 .mainBio {
