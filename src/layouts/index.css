@@ -6,6 +6,9 @@
 } */
 
 @import url('https://fonts.googleapis.com/css?family=Shrikhand');
+@import url('https://fonts.googleapis.com/css?family=Imprima');
+
+
 .wiljago {
   color: #cc0033;
   text-decoration: none;
@@ -29,22 +32,23 @@ svg {
   right: 0;
 }
 
-.firstSnek {
+#firstSnek {
 z-index: 1;
 }
 
-.nextSnek {
+#nextSnek {
 z-index: 2;
 }
 
 .mainBio {
+  z-index: 3;
   text-align: right;
   color: #660033;
   margin-top: 2em;
-  margin-left: 0em;
-  margin-right: 0em;
+  margin-left: 40%;
+  margin-right: 5%;
   margin-bottom: 0em;
-  font-family: 'Shirkhand', cursive;
+  font-family: 'Imprima', sans-serif;
 }
 
 html {
