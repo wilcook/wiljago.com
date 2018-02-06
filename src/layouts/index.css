@@ -32,16 +32,15 @@ svg {
   right: 0;
 }
 
-#firstSnek {
-z-index: 1;
+/* #firstSnek {
+z-index: -1;
 }
 
 #nextSnek {
-z-index: 2;
-}
+z-index: 0;
+} */
 
 .mainBio {
-  z-index: 3;
   text-align: right;
   color: #660033;
   margin-top: 2em;
