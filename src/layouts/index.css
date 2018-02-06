@@ -1,14 +1,10 @@
 /* customization */
 
-/* .stripes {
-  background: repeating-linear-gradient( -45deg,#e7e8d4,#e7e8d4 0.125em, #ffffcc 0.125em, #ffffcc 3em);
-  border-bottom: .125rem solid #ffff94;
-} */
-
+/* imported google fonts */
 @import url('https://fonts.googleapis.com/css?family=Shrikhand');
 @import url('https://fonts.googleapis.com/css?family=Imprima');
 
-
+/* header styling */
 .wiljago {
   color: #cc0033;
   text-decoration: none;
@@ -32,14 +28,6 @@ svg {
   right: 0;
 }
 
-/* #firstSnek {
-z-index: -1;
-}
-
-#nextSnek {
-z-index: 0;
-} */
-
 .mainBio {
   text-align: right;
   color: #660033;
@@ -49,6 +37,17 @@ z-index: 0;
   margin-bottom: 0em;
   font-family: 'Imprima', sans-serif;
 }
+
+.logos {
+  float: right;
+  margin: 10px;
+}
+
+img {
+  margin: 5px;
+}
+
+/* Helpful CSS kept from Gatsby */
 
 html {
   font-family: sans-serif;
@@ -708,3 +707,12 @@ pre code:before, pre code:after, pre tt:before, pre tt:after {
     font-size: 100%;
   }
 }
+
+
+/* Temporary graveyard */
+
+/* This stripes header no longer fit the home page design, but maybe re-incorporated into another area. */
+/* .stripes {
+  background: repeating-linear-gradient( -45deg,#e7e8d4,#e7e8d4 0.125em, #ffffcc 0.125em, #ffffcc 3em);
+  border-bottom: .125rem solid #ffff94;
+} */
