@@ -1,10 +1,9 @@
-/* customization */
-
 /* imported google fonts */
 @import url('https://fonts.googleapis.com/css?family=Shrikhand');
 @import url('https://fonts.googleapis.com/css?family=Imprima');
 
-/* header styling */
+/* custom CSS */
+
 .wiljago {
   color: #cc0033;
   text-decoration: none;
@@ -29,6 +28,9 @@ svg {
 }
 
 .mainBio {
+  position: relative;
+  z-index: 10;
+  background: transparent;
   text-align: right;
   color: #660033;
   margin-top: 2em;
@@ -39,6 +41,7 @@ svg {
 }
 
 .logos {
+  background: transparent;
   float: right;
   margin: 10px;
 }
