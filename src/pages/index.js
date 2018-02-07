@@ -35,7 +35,7 @@ const IndexPage = () => (
      Wil Cook is a professional web designer and developer available for hire. He primarily works in Node.js, and especially loves React and React-Native.
      </p>
      <p>
-     This site was built using React.Js and Gatsby. Please click on the GitHub logo below to see the code and learn more.
+     This site was built using React.JS and Gatsby. Please click on the GitHub logo below to see the code and learn more.
      </p>
      <p>
      Hit refresh to change the colors of the snake plants!
