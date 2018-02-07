@@ -37,6 +37,9 @@ const IndexPage = () => (
      <p>
      This site was built using React.Js and Gatsby. Please click on the GitHub logo below to see the code and learn more.
      </p>
+     <p>
+     Hit refresh to change the colors of the snake plants!
+     </p>
      <div className="logos">
       <a href={ GitHubURL }>
       <img src={ github } height="30px" alt="GitHub" />

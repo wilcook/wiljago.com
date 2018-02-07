@@ -31,10 +31,11 @@ svg {
   position: relative;
   z-index: 10;
   background: transparent;
-  text-align: right;
+  float: right;
+  text-align: justify;
   color: #660033;
   margin-top: 2em;
-  margin-left: 40%;
+  margin-left: 60%;
   margin-right: 5%;
   margin-bottom: 0em;
   font-family: 'Imprima', sans-serif;
