@@ -11,7 +11,7 @@ import github from '../images/github.png';
 import stackoverflow from '../images/stackoverflow.png';
 
 // external link addresses
-const GitHubURL = "https://github.com/wilcook";
+const GitHubURL = "https://github.com/wilcook/wiljago.com";
 const StackOverflowURL = "https://stackoverflow.com/users/6845618/wiljago";
 const LinkedInURL = "http://linkedin.com/in/wilcook";
 
