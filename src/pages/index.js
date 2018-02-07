@@ -1,5 +1,4 @@
 import React from 'react';
-import Link from 'gatsby-link';
 
 // snake plant paths
 import SnakeyA from '../components/SVGs/SnakeyA.js';

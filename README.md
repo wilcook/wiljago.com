@@ -1,13 +1,7 @@
-# gatsby-starter-default
-The default Gatsby starter
+# Personal website with color changing snake plants
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
+This site was built using React.Js and Gatsby. To view the live site, please look at  [wiljago.netlify.com](https://wiljago.netlify.com/).
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-example-site
-```
+The snake plant SVGs are saved as JavaScript files, and can be found in /src/components/SVGs. The color randomizing is simple and placed directly within /src/pages/index.js.
 
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+This site is a work in progress. Currently I'm using it to figure out programmatic external linking in React. The next phase will be to add CSS animations and a more fun 404 page. 
