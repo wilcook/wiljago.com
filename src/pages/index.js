@@ -33,7 +33,9 @@ const IndexPage = () => (
     <div  className="mainBio">
     <p>
      Wil Cook is a professional web designer and developer available for hire. He primarily works in Node.js, and especially loves React and React-Native.
-
+     </p>
+     <p>
+     This site was built using React.Js and Gatsby. Please click on the GitHub logo below to see the code and learn more.
      </p>
      <div className="logos">
       <a href={ GitHubURL }>
