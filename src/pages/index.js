@@ -18,17 +18,15 @@ const LinkedInURL = "http://linkedin.com/in/wilcook";
 // snake plant color array
 const colors = ["#e7e8d4", "#003333", "#8f9a5e", "#ffff94", "#4D8C57", "#00755E", "#C9A0DC", "#AFE313", "#B33B24", "#FD0E35", "#00CC99", "#01786F", "#76D7EA", "#805533"];
 
-// snake plant random color picker
-const snakeColorA = colors[Math.floor(Math.random() * colors.length)]
-const snakeColorB = colors[Math.floor(Math.random() * colors.length)]
+
 const snakeColorC = colors[Math.floor(Math.random() * colors.length)]
 
 const IndexPage = () => (
   <div>
   <div className="snek">
-    <SnakeyB color={ snakeColorB }/>
-    <SnakeyA color={ snakeColorA }/>
-    <SnakeyC color={ snakeColorC }/>
+    <SnakeyB />
+    <SnakeyA />
+    <SnakeyC />
   </div>
     <div  className="mainBio">
     <p>
