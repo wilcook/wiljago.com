@@ -27,7 +27,10 @@ const IndexPage = () => (
      Wil Cook is a professional web designer and developer who loves Node, React and React-Native. He has done design for print, web, and theater, and has shown video, sound art, and paintings as a fine artist. You can find him watching Gundam, and playing with his dog.
      </p>
      <p>
-     Hit refresh to change the colors of the snake plants!
+     Check back on February 19th to see preview artwork for a comic about mysterious space epiphytes, the scientists who study them, and the seasonal workers who deliver supplies to their research station out of the City of St Francis for minimum wage.
+     </p>
+     <p>
+     Hit refresh to change the colors of the snake plants.
      </p>
      <div className="logos">
       <a href={ GitHubURL }>
